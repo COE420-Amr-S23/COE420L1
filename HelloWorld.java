@@ -6,6 +6,6 @@ public class HelloWorld {
     }
     public static void featureB()
     {
-    	System.out.println("Hello, World! from Feature B");
+    	System.out.println("Hello, World from Feature B");
     }
 }
